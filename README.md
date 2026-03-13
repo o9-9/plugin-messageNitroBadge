@@ -1,7 +1,12 @@
 # messageNitroBadge
+
+> [!IMPORTANT]
+> # This plugin is officially considered EOL; as of `03/12/2026` discord removed the experiment this plugin uses 
+> ![](https://cdn.nest.rip/uploads/79f23527-0626-47df-b858-49d95c300b16.png)
+
+
 Vencord plugin to enable the `Social Proofing Message Nitro Badge` experiment
 
-![](https://cdn.nest.rip/uploads/74ba1aca-c807-4667-8480-49aa121186c0.png)
 
 > Experiment Treatment
 >
